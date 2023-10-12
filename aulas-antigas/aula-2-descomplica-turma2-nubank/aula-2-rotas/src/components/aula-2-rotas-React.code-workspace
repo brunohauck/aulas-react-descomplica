@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../aula-descomplica/aula01"
+		},
+		{
+			"path": "../../../../aula-descomplica/aula01-backup"
+		},
+		{
+			"path": "../../../../aula-descomplica/aula01-aluno-empresa"
+		},
+		{
+			"path": "../../../../aula-descomplica/aula01-react-router5"
+		},
+		{
+			"path": "../../../aula-2-rotas-backup"
+		},
+		{
+			"path": "../../../../descomplica/aula-descomplica-start/aula01"
+		}
+	],
+	"settings": {}
+}

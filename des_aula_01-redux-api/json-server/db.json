@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "name": "Bruno Hauck",
+      "email": "brunohauck@gmail.com",
+      "phone": "1234567890",
+      "id": 1
+    },
+    {
+      "name": "Raphael",
+      "email": "raphaelteste@gmail.com",
+      "phone": "1234567890",
+      "id": 2
+    },
+    {
+      "name": "Bruno Hauck Ferreira",
+      "email": "brunohauck@gmail.com",
+      "phone": "3197734343",
+      "id": 3
+    },
+    {
+      "name": "Bruno 2",
+      "email": "brs@gmail.com",
+      "phone": "213232",
+      "id": 4
+    },
+    {
+      "name": "Bruno",
+      "email": "brunohauck@gmail.com",
+      "phone": "312323",
+      "id": 5
+    },
+    {
+      "name": "fdsfds",
+      "email": "bfd@gmail.com",
+      "phone": "4343242332",
+      "id": 6
+    },
+    {
+      "name": "fdfds um",
+      "email": "fdsfsd@gmail.com",
+      "phone": "4343242332fdfd",
+      "id": 7
+    },
+    {
+      "name": "Descomplica",
+      "email": "des@gmail.com",
+      "phone": "32323232",
+      "id": 8
+    },
+    {
+      "name": "Bruno fdfdsfds",
+      "email": "brds@gmail.com",
+      "phone": "4343242332fdsfds",
+      "id": 9
+    },
+    {
+      "name": "Bruno fdfdsfds",
+      "email": "brds@gmail.com",
+      "phone": "4343242332fdsfds",
+      "id": 10
+    },
+    {
+      "name": "Bruno fdfdsfds",
+      "email": "brds@gmail.com",
+      "phone": "4343242332fdsfds",
+      "id": 11
+    },
+    {
+      "name": "Bruno",
+      "email": "brunohauck3232@gmail.com",
+      "phone": "43432432",
+      "id": 12
+    },
+    {
+      "name": "Bruno Final Descomplica",
+      "email": "brunofinal@gmail.com",
+      "phone": "32323232",
+      "id": 13
+    }
+  ]
+}
